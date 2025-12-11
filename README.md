@@ -1,4 +1,4 @@
-# Jet Auth
+# Jwt Auth
 
 This project implements **JWT-based authentication** using Node.js and Express.
 
@@ -12,3 +12,4 @@ It allows users to:
    - Only users with a valid token can access this route.
 
 This demonstrates secure handling of authentication and authorization using JWT.
+
